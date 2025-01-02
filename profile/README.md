@@ -10,4 +10,4 @@
 [whataboutyou-blog]: https://whataboutyou.ai/blog.html
 [eunomia-github]: https://github.com/whataboutyou-ai/eunomia
 [eunomia-docs]: https://whataboutyou-ai.github.io/eunomia/
-[discord]: https://discord.gg/CWjh5JQT
+[discord]: https://discord.gg/TyhGZtzg3G
