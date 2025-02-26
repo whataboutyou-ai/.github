@@ -1,6 +1,6 @@
 ![WAY Logo](../assets/logo.svg)
 
-[What About You][whataboutyou-website] implements a dynamic token-level approach to data governance, specifically designed for LLM-based applications.
+[What About You][whataboutyou-website] decouples authorization logic from AI Agent architectures.
 * Check out our open source framework: [eunomia][eunomia-github].
 * Read the eunomia [documentation][eunomia-docs].
 * Join the community on [Discord][discord].
