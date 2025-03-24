@@ -3,14 +3,11 @@
   <img alt="What About You Logo" src="../assets/logo-sm.svg">
 </picture>
 
-[What About You][whataboutyou-website] provides an authorization layer to AI Agents.
-* Check out our open source server: [eunomia][eunomia-github].
-* Read the eunomia [documentation][eunomia-docs].
-* Join the community on [Discord][discord].
-* Read the latest posts on our [blog][whataboutyou-blog].
+[What About You][whataboutyou-website] provides an authorization layer for AI Agents.
+
+Whether you're a developer, a community builder, or a tech leader, you can explore our [open-source][eunomia-github] solution, join the conversation on [Discord][discord], or [contact us][whataboutyou-contact] for enterprise adoption.
 
 [whataboutyou-website]: https://whataboutyou.ai/
-[whataboutyou-blog]: https://whataboutyou.ai/blog
 [eunomia-github]: https://github.com/whataboutyou-ai/eunomia
-[eunomia-docs]: https://whataboutyou-ai.github.io/eunomia/
 [discord]: https://discord.gg/TyhGZtzg3G
+[whataboutyou-contact]: mailto:info@whataboutyou.ai
